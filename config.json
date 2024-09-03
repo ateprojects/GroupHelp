@@ -1,10 +1,10 @@
 {
-    "botToken" : "your-bot-token",
-    "botStaff" : [ "361908469" ],
+    "botToken" : "7384471245:AAFvT3fumzZevzYMQaBIgGqjLuPDd-aDgvU",
+    "botStaff" : [ "2189557114" ],
     "deleteChatDataAfterBotRemove" : false,
     "overwriteChatDataIfReAddedToGroup" : false,
     "allowExternalApi" : true,
-    "reserveLang" : "en_en",
+    "reserveLang" : "es_es",
     "saveDatabaseSeconds" : 3600,
     "saveTagResolverSeconds" : 3600,
     "maxCallbackAge" : 86400,
